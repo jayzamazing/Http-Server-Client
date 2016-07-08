@@ -12,12 +12,16 @@
   },
   "keywords": [
     "Javascript",
-    "NodeJS"
+    "NodeJS",
+    "Unirest"
   ],
   "author": "Adrian J Lopez <adrianjaylopez@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/jayzamazing/Http-Server-Client/issues"
   },
-  "homepage": "https://github.com/jayzamazing/Http-Server-Client#readme"
+  "homepage": "https://github.com/jayzamazing/Http-Server-Client#readme",
+  "dependencies": {
+    "unirest": "^0.5.0"
+  }
 }
