@@ -1,0 +1,23 @@
+{
+  "name": "http-server-client",
+  "version": "1.0.0",
+  "description": "Simple client for Http Echo Server.",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jayzamazing/Http-Server-Client.git"
+  },
+  "keywords": [
+    "Javascript",
+    "NodeJS"
+  ],
+  "author": "Adrian J Lopez <adrianjaylopez@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jayzamazing/Http-Server-Client/issues"
+  },
+  "homepage": "https://github.com/jayzamazing/Http-Server-Client#readme"
+}
